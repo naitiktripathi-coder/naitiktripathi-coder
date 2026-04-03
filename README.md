@@ -1,4 +1,5 @@
 # naitiktripathi-coder
+# Naitik Tripathi 
 
 👋 Hey, I'm Naitik
 
