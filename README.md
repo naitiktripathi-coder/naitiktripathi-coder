@@ -4,7 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm Naitik Tripathi</h1>
 <p align="center">Python Learner | Building Smart & Creative Projects 🚀</p>
+<div align="center">
 
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Learner;GUI+Developer;Mini+OS+Builder;Creative+Coder+🔥">
+
+</div>
 # naitiktripathi-coder
 # Naitik Tripathi 
 
@@ -46,10 +51,15 @@ Present in =: https://github.com/naitiktripathi-coder/smart-python-projects
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=naitiktripathi-coder&show_icons=true&theme=tokyonight)
----
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=naitiktripathi-coder&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitiktripathi-coder&layout=compact&theme=tokyonight&hide_border=true" width="70%"/>
+
+</p>
 
 🎯 Goal
 
