@@ -11,11 +11,7 @@
 
 </div>
 # naitiktripathi-coder
-# Naitik Tripathi 
-
-👋 Hey, I'm Naitik
-
-"Typing" (https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Learner;Building+GUI+Apps;Learning+Step+by+Step)
+# Naitik Tripathi
 
 💻 Python Learner
 📚 Class 10 Student
@@ -31,17 +27,22 @@
 
 ---
 
-🛠️ Skills
+## 🛠 Skills
 
-"Python" (https://img.shields.io/badge/Python-blue)
-"Tkinter" (https://img.shields.io/badge/Tkinter-GUI-green)
-"Student" (https://img.shields.io/badge/Level-Beginner-orange)
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
 
-🚀 Projects
+<img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge"/>
 
-Present in =: https://github.com/naitiktripathi-coder/smart-python-projects
+<img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge"/>
+
+</p>
+-----
+
+##🚀 Projects
+
+Present in =: 🔗 [Smart Python Projects](https://github.com/naitiktripathi-coder/smart-python-projects)
 
 - 📘 Words Mart (Dictionary App)(GUI Based)
 - 📐 Smart Area Calculator
@@ -50,29 +51,28 @@ Present in =: https://github.com/naitiktripathi-coder/smart-python-projects
 - 🔎 Smart Search Engine (App Search Hub)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naitiktripathi-coder&show_icons=true&theme=tokyonight&hide_border=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naitiktripathi-coder&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitiktripathi-coder&layout=compact&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitiktripathi-coder&layout=compact&theme=tokyonight"/>
 
 </p>
-
-🎯 Goal
+---
+##🎯 Goal
 
 To improve my coding skills and build better projects over time
 
 ---
 
-⚡ Mindset
+##⚡ Mindset
 
 Keep it simple. Keep learning. Keep coding.
 
 ---
 
-😄 Fun Line
+##😄 Fun Line
 
 Small code today → better developed program tomorrow 💻
