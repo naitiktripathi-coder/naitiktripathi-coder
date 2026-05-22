@@ -72,9 +72,11 @@ To improve my coding skills and build better projects over time
 Keep it simple. Keep learning. Keep coding.
 
 ---
-## 🐍 Contribution Snake
+<p align="center">
 
-![snake gif](https://github.com/naitiktripathi-coder/naitiktripathi-coder/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
+</p>
 ---
 
 ##😄 Fun Line
