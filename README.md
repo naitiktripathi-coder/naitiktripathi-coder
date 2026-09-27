@@ -35,7 +35,7 @@
 
 <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Level-Intermediate-orange?style=for-the-badge"/>
 
 </p>
 -----
